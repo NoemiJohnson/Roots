@@ -1,0 +1,5 @@
+runtime for 16 processors is 103 seconds
+runtime for 32 processors is 104 seconds
+runtime for 48 processors is 127 seconds
+runtime for 64 processors is 144 seconds
+runtime for 80 processors is 158 seconds
